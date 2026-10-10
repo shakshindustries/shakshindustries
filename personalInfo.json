@@ -1,0 +1,76 @@
+{
+  "name": "Shaksh",
+  "fullName": "Shaksh",
+  "title": "Full Stack Developer & Creative Technologist",
+  "bio": "Building next-generation web applications, interactive 3D experiences, and native mobile solutions.",
+  "contact": {
+    "phone": "+91 9936475054",
+    "phoneRaw": "+919936475054",
+    "email": "shaksh.coder@gmail.com",
+    "secondaryEmail": "shaksh.coder@gmail.com",
+    "location": "Prayagraj, Uttar Pradesh, India",
+    "availableFor": "Freelance Projects & Full-Time Roles",
+    "workingHours": "Mon — Sat, 9:00 AM — 8:00 PM IST",
+    "responseSpeed": "Within 24 hours"
+  },
+  "website": {
+    "url": "https://shakshindustries.netlify.app",
+    "display": "shakshindustries.netlify.app"
+  },
+  "socials": {
+    "youtube": {
+      "name": "YouTube",
+      "url": "https://youtube.com/@shakshindustry?feature=shared",
+      "username": "@shakshindustry",
+      "enabled": true
+    },
+    "telegram": {
+      "name": "Telegram",
+      "url": "https://t.me/programmershaksh",
+      "username": "@programmershaksh",
+      "enabled": true
+    },
+    "email": {
+      "name": "Mail",
+      "url": "mailto:shaksh.coder@gmail.com",
+      "username": "shaksh.coder@gmail.com",
+      "enabled": true
+    },
+    "whatsapp": {
+      "name": "WhatsApp",
+      "url": "https://wa.me/919936475054",
+      "username": "+91 9936475054",
+      "enabled": true
+    },
+    "instagram": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/shaksh.coder?utm_source=qr&obrf=MWowb2picW9oNDlwaQ==",
+      "username": "@shaksh.coder",
+      "enabled": true
+    },
+    "facebook": {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/share/1MFeWFMgM1/",
+      "username": "Shaksh",
+      "enabled": true
+    },
+    "github": {
+      "name": "GitHub",
+      "url": "https://github.com/shakshindustries",
+      "username": "shakshindustries",
+      "enabled": true
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/shaksh",
+      "username": "in/shaksh",
+      "enabled": true
+    },
+    "website": {
+      "name": "Website",
+      "url": "https://shakshindustries.netlify.app",
+      "username": "shakshindustries.netlify.app",
+      "enabled": true
+    }
+  }
+}

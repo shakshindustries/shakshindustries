@@ -1,0 +1,102 @@
+[
+  {
+    "id": "abcm",
+    "title": "ABCM Web Platform",
+    "caption": "abcm.netlify.app",
+    "screenshot": "/projects/abcm.netlify.app.png",
+    "liveLink": "https://abcm.netlify.app",
+    "category": "Full Stack Web App",
+    "description": "Modern web platform built for seamless user interaction, dynamic workflows, and responsive cross-device compatibility.",
+    "tech": ["React", "CSS3", "JavaScript", "Netlify"]
+  },
+  {
+    "id": "ai-image-creator",
+    "title": "AI Image Creator",
+    "caption": "aiimagecreator.netlify.app",
+    "screenshot": "/projects/aiimagecreator.netlify.app.png",
+    "liveLink": "https://aiimagecreator.netlify.app",
+    "category": "AI & Generative Media",
+    "description": "Innovative AI-driven image generation tool enabling users to transform prompt ideas into stunning visual art with instant rendering.",
+    "tech": ["React", "AI APIs", "Prompt Engineering", "Tailwind CSS"]
+  },
+  {
+    "id": "campus-one",
+    "title": "Campus One Portal",
+    "caption": "campusone.fast-page.org",
+    "screenshot": "/projects/campusone.fast-page.org.png",
+    "liveLink": "https://campusone.fast-page.org",
+    "category": "Educational Platform",
+    "description": "Comprehensive campus portal and academic management system organizing student information, notices, and academic resource portals.",
+    "tech": ["PHP", "MySQL", "JavaScript", "Responsive UI"]
+  },
+  {
+    "id": "edunova-manager",
+    "title": "EduNova Manager",
+    "caption": "edunovamanger.gt.tc",
+    "screenshot": "/projects/edunovamanger.gt.tc.png",
+    "liveLink": "https://edunovamanger.gt.tc",
+    "category": "Management Dashboard",
+    "description": "Robust educational administration and manager dashboard for streamlining student tracking, administrative workflows, and analytics.",
+    "tech": ["PHP", "JavaScript", "Bootstrap", "MySQL"]
+  },
+  {
+    "id": "gic-prayagraj",
+    "title": "GIC Prayagraj Portal",
+    "caption": "gicprayagraj.netlify.app",
+    "screenshot": "/projects/gicprayagraj.netlify.app.png",
+    "liveLink": "https://gicprayagraj.netlify.app",
+    "category": "Institutional Website",
+    "description": "Official college portal for Government Inter College Prayagraj showcasing institutional updates, admissions, and student facilities.",
+    "tech": ["HTML5", "CSS3", "JavaScript", "Netlify"]
+  },
+  {
+    "id": "nimbus-express",
+    "title": "Nimbus Express",
+    "caption": "nimbusexpress.free.je",
+    "screenshot": "/projects/nimbusexpress.free.je.png",
+    "liveLink": "https://nimbusexpress.free.je",
+    "category": "Logistics & Tracking",
+    "description": "High-speed delivery and logistics tracking application delivering fast package status updates, booking flows, and routing data.",
+    "tech": ["Web Technologies", "API Integration", "JavaScript", "CSS3"]
+  },
+  {
+    "id": "prempath",
+    "title": "Prempath Wellness",
+    "caption": "prempath.loveslife.biz",
+    "screenshot": "/projects/prempath.loveslife.biz.png",
+    "liveLink": "https://prempath.loveslife.biz",
+    "category": "Lifestyle & Wellness",
+    "description": "Dedicated web portal delivering curated lifestyle, wellness, and self-growth guidance with an intuitive reading experience.",
+    "tech": ["CMS", "JavaScript", "Responsive Design", "SEO"]
+  },
+  {
+    "id": "quicknotes",
+    "title": "QuickNotes Utility",
+    "caption": "quicknotes.page.gd",
+    "screenshot": "/projects/quicknotes.page.gd.png",
+    "liveLink": "https://quicknotes.page.gd",
+    "category": "Productivity Utility",
+    "description": "Lightweight, distraction-free digital notebook application for rapid note-taking, task organization, and instant cloud-ready storage.",
+    "tech": ["JavaScript", "Local Storage", "CSS Grid", "HTML5"]
+  },
+  {
+    "id": "shaksh-v1",
+    "title": "Shaksh Portfolio V1",
+    "caption": "shaksh.netlify.app",
+    "screenshot": "/projects/shaksh.netlify.app.png",
+    "liveLink": "https://shaksh.netlify.app",
+    "category": "Portfolio Showcase",
+    "description": "First-generation personal digital identity and portfolio highlighting key technical milestones, background, and front-end creations.",
+    "tech": ["React", "Motion", "CSS Modules", "Netlify"]
+  },
+  {
+    "id": "shaksh-billing",
+    "title": "Shaksh Industries Billing",
+    "caption": "shakshindustriesbilling.infinityfree.me",
+    "screenshot": "/projects/shakshindustriesbilling.infinityfree.me.png",
+    "liveLink": "https://shakshindustriesbilling.infinityfree.me",
+    "category": "Enterprise Billing",
+    "description": "Full-featured invoice and billing management software for tracking client transactions, tax calculations, and automated receipt generation.",
+    "tech": ["PHP", "MySQL", "JavaScript", "Invoice Engine"]
+  }
+]
