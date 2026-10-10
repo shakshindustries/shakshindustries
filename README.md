@@ -1,232 +1,337 @@
 <div align="center">
 
-# ⚡ SHAKSH // PORTFOLIO
+<!-- CAPSULE / CYBER BANNER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#050507,25:#1f0710,60:#b80d2a,100:#ff2a4b&height=260&section=header&text=SHAKSH&fontSize=82&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Android%20Engineer&descSize=19&descAlign=50&descAlignY=64&fontColor=ffffff&stroke=ff2a4b&strokeWidth=2" width="100%" alt="Shaksh Portfolio Header" />
 
-### **Full-Stack Developer & Creative Technologist**
+<!-- TYPING ANIMATION (Dynamic Red Cyberpunk Theme) -->
+<a href="https://shakshindustries.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FF2A4B&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Crafting+Liquid-Glass+Web+Interfaces;Specialized+in+Three.js+3D+%26+Interactive+Canvases;Native+Android+Architect+with+Jetpack+Compose;Full+Stack+Scalability+%7C+UI%2FUX+Precision" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- ACTION BADGES -->
 <p align="center">
-  <a href="https://shakshindustries.netlify.app">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-shakshindustries.netlify.app-ff2a4b?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site" />
-  </a>
-  <a href="https://github.com/shakshindustries">
-    <img src="https://img.shields.io/badge/GITHUB-shakshindustries-181824?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://shakshindustries.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-shakshindustries.netlify.app-ff2a4b?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="mailto:shaksh.coder@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-shaksh.coder%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📬_SEND_MESSAGE-shaksh.coder%40gmail.com-181824?style=for-the-badge&logo=gmail&logoColor=ff2a4b" alt="Email" />
   </a>
-  <a href="https://wa.me/919936475054">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2B91%209936475054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/919936475054" target="_blank">
+    <img src="https://img.shields.io/badge/💬_WHATSAPP-%2B91_9936475054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
+<!-- SOCIAL MATRIX PILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Vite%208-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/JavaScript%20ES2026+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Liquid%20Glass-Dark%20%26%20Dracula%20Crimson-ff2a4b?style=flat-square" alt="Liquid Glass Aesthetic" />
-  <img src="https://img.shields.io/badge/Scrollytelling-Sticky%20Portals-ff2a4b?style=flat-square" alt="Scrollytelling" />
+  <a href="https://youtube.com/@shakshindustry?feature=shared" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/programmershaksh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/shaksh.coder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shaksh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shakshindustries" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <i>"Building next-generation web applications, interactive 3D experiences, and native mobile solutions."</i>
-</p>
+<!-- SNAKE SVG / METRICS -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions Snake" />
 
 </div>
 
 <br/>
 
-## 🌐 Live Experience & Visual Identity
+<!-- ===================================================================== -->
+<!-- SECTION: ABOUT & EXECUTIVE IDENTITY -->
+<!-- ===================================================================== -->
 
-> **🔗 Live Website:** [shakshindustries.netlify.app](https://shakshindustries.netlify.app)  
-> **🎨 Theme & Design:** Cyber-Dracula Void Black (`#050507`), Liquid Glass frosted glassmorphism (`rgba(14, 14, 20, 0.65)`), Neon Crimson accents (`#ff2a4b` & `#ff4362`), and smooth GPU-accelerated Scrollytelling.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="public/hero-photo-1.png" width="300" style="border-radius: 50%; border: 3px solid #ff2a4b; box-shadow: 0 0 30px #ff2a4b;" alt="Shaksh - Full Stack & 3D Web Engineer" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-10b981?style=for-the-badge&logoColor=white" alt="Status: Available" />
+    </td>
+    <td width="62%" valign="top">
+      <h2 style="color: #ff2a4b;">⚡ Executive Overview</h2>
+      <p>
+        Hi! I’m <b>Shaksh</b>, an India-based <b>Full-Stack Developer & Creative Technologist</b> specializing in next-generation liquid-glass UI architectures, GPU-accelerated 3D WebGL experiences with Three.js, and performant Android solutions.
+      </p>
+      <p>
+        📍 <b>Location:</b> Prayagraj, Uttar Pradesh, India<br/>
+        🎓 <b>Education:</b> B.C.A (Bachelor of Computer Applications) • <b>8.0 CGPA</b><br/>
+        💼 <b>Focus Areas:</b> 3D Interactive WebGL, React Ecosystems, Kotlin Android Apps, High-Impact Media<br/>
+        ⚡ <b>Working Hours:</b> Mon — Sat, 9:00 AM — 8:00 PM IST (Replies within 24h)
+      </p>
+      <p>
+        <b>🎨 Design Philosophy:</b> Pure dark contrast (<code>#050507</code> void base), high-refraction frosted glass, precision micro-animations, and vibrant crimson illumination (<code>#ff2a4b</code>).
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- SECTION: TECH ARSENAL & KNOWLEDGE MATRIX -->
+<!-- ===================================================================== -->
+
+## 🛠️ Technical Stack & Knowledge Mastery
+
+<div align="center">
+
+| Domain | Core Technologies & Frameworks | Proficiency Level |
+| :--- | :--- | :---: |
+| **Frontend & UI** | `React 19` `Vite` `Next.js` `JavaScript ES2026+` `TypeScript` `HTML5/CSS3` | `95% - Expert` |
+| **3D & Shaders** | `Three.js` `WebGL` `GLSL Shaders` `GLTF Loaders` `Physics & HUD` | `90% - Specialist` |
+| **Mobile Native** | `Kotlin` `Jetpack Compose` `Material 3` `Coroutines` `Room DB` `MVVM` | `86% - Advanced` |
+| **Backend & APIs** | `Node.js` `Express` `Python` `PHP` `RESTful APIs` `GraphQL` | `88% - Advanced` |
+| **Data & Storage** | `MySQL` `PostgreSQL` `LocalStorage APIs` `Firebase` | `87% - Proficient` |
+| **DevOps & Tools** | `Git` `GitHub CI/CD` `Netlify` `Postman` `Figma` `VS Code` | `92% - Advanced` |
+
+<br/>
+
+### 🎯 Skill Knowledge Breakdown (Synchronized with Portfolio HUD)
+
+```
+React.js            [==================================================] 95%
+HTML5 & Liquid CSS  [==================================================] 96%
+JavaScript ES2026+  [================================================= ] 94%
+Git & DevOps        [================================================  ] 92%
+Three.js & WebGL    [===============================================   ] 90%
+Next.js Framework   [==============================================    ] 89%
+Node.js & APIs      [==============================================    ] 88%
+TypeScript          [==============================================    ] 88%
+Kotlin Android SDK  [=============================================     ] 86%
+Python Automation   [============================================      ] 85%
+```
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- SECTION: FEATURED PRODUCTION SHOWCASE -->
+<!-- ===================================================================== -->
+
+## 🚀 Featured Production Projects
+
+Each project below is live in production and built with responsive, cross-platform standards:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 ABCM Web Platform</h3>
+      <p align="center">
+        <a href="https://abcm.netlify.app" target="_blank">
+          <img src="public/projects/abcm.netlify.app.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="ABCM Platform Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> Full Stack Web Application<br/>
+      <b>Stack:</b> <code>React</code> <code>CSS3</code> <code>JavaScript</code> <code>Netlify</code><br/>
+      Modern web platform built for seamless user interaction, dynamic workflows, and responsive cross-device compatibility.</p>
+      <p align="center">
+        <a href="https://abcm.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-abcm.netlify.app-ff2a4b?style=flat-square" alt="ABCM Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Image Creator</h3>
+      <p align="center">
+        <a href="https://aiimagecreator.netlify.app" target="_blank">
+          <img src="public/projects/aiimagecreator.netlify.app.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="AI Image Creator Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> AI & Generative Media<br/>
+      <b>Stack:</b> <code>React</code> <code>AI APIs</code> <code>Prompt Engineering</code> <code>Tailwind</code><br/>
+      Generative image application transforming prompt ideas into visual art with instant rendering models.</p>
+      <p align="center">
+        <a href="https://aiimagecreator.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-aiimagecreator.netlify.app-ff2a4b?style=flat-square" alt="AI Creator Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Campus One Portal</h3>
+      <p align="center">
+        <a href="https://campusone.fast-page.org" target="_blank">
+          <img src="public/projects/campusone.fast-page.org.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="Campus One Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> Educational Platform<br/>
+      <b>Stack:</b> <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Responsive UI</code><br/>
+      Academic management portal organizing student rosters, college notices, and interactive study resources.</p>
+      <p align="center">
+        <a href="https://campusone.fast-page.org" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-campusone.fast--page.org-ff2a4b?style=flat-square" alt="Campus One Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 EduNova Manager</h3>
+      <p align="center">
+        <a href="https://edunovamanger.gt.tc" target="_blank">
+          <img src="public/projects/edunovamanger.gt.tc.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="EduNova Manager Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> Management Dashboard<br/>
+      <b>Stack:</b> <code>PHP</code> <code>JavaScript</code> <code>Bootstrap</code> <code>MySQL</code><br/>
+      Educational administration dashboard streamlining student attendance tracking, records, and analytics.</p>
+      <p align="center">
+        <a href="https://edunovamanger.gt.tc" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-edunovamanger.gt.tc-ff2a4b?style=flat-square" alt="EduNova Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚚 Nimbus Express</h3>
+      <p align="center">
+        <a href="https://nimbusexpress.free.je" target="_blank">
+          <img src="public/projects/nimbusexpress.free.je.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="Nimbus Express Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> Logistics & Tracking<br/>
+      <b>Stack:</b> <code>JavaScript</code> <code>API Integration</code> <code>CSS3</code> <code>HTML5</code><br/>
+      High-speed delivery and logistics tracking application with package status lookup and routing workflows.</p>
+      <p align="center">
+        <a href="https://nimbusexpress.free.je" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-nimbusexpress.free.je-ff2a4b?style=flat-square" alt="Nimbus Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 Shaksh Industries Billing</h3>
+      <p align="center">
+        <a href="https://shakshindustriesbilling.infinityfree.me" target="_blank">
+          <img src="public/projects/shakshindustriesbilling.infinityfree.me.png" width="100%" style="border-radius: 12px; border: 1px solid #ff2a4b;" alt="Shaksh Billing Preview" />
+        </a>
+      </p>
+      <p><b>Category:</b> Enterprise Billing<br/>
+      <b>Stack:</b> <code>PHP</code> <code>MySQL</code> <code>Invoice Engine</code> <code>JavaScript</code><br/>
+      Enterprise invoice and transaction billing management software with automated receipt generation and tax computation.</p>
+      <p align="center">
+        <a href="https://shakshindustriesbilling.infinityfree.me" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-billing.infinityfree.me-ff2a4b?style=flat-square" alt="Billing Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- SECTION: ACADEMIC & CERTIFICATIONS -->
+<!-- ===================================================================== -->
+
+## 🎓 Academic Foundations & Certifications
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  SHAKSH                   [Home] [Skills] [Education] [Projects] [Contact]  │ [Hire Me ->]
+│ 01 // 2024 — 2027  [B.C.A - Bachelor of Computer Applications]              │
+│       Prof. Rajendra Prasad University Naini, Prayagraj  •  ★ 8.0 CGPA      │
+│       Focus: Data Structures, Algorithms, DBMS, Software Engineering        │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│                 W E B   D E V E L O P E R  //  3D  H O L O                  │
-│                                                                             │
-│   [01 // 3D & FRONTEND]             ┌──────────┐      [SPECIALIZATION]      │
-│   Engineering Bold                  │  SHAKSH  │      01. Frontend & 3D Web │
-│   Digital Realities                 │  AVATAR  │      02. Systems Arch      │
-│   Liquid-glass web interfaces...    │  PORTAL  │      03. Design Eng        │
-│   [ Explore Tech Stack -> ]         └──────────┘      Status: Available     │
-│                                                                             │
-│           [ YouTube ]  [ Telegram ]  [ Mail ]  [ WhatsApp ]  [ GitHub ]      │
+│ 02 // 2023 — Present [Advanced Web & 3D Graphics Engineering]               │
+│       Professional Specialization & WebGL Deep Dives                        │
+│       Focus: Three.js Shaders, GLSL, Liquid Glass Components, Core Web Vitals│
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 03 // 2023 — 2024  [Android Mobile Application Architecture]                │
+│       Google Android Developer Specialization                               │
+│       Focus: Kotlin Coroutines, Jetpack Compose, Material 3, MVVM & Room DB │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<br/>
 
-## ✨ Key Portfolio Features & Architecture
+<!-- ===================================================================== -->
+<!-- SECTION: GITHUB STATS & METRICS -->
+<!-- ===================================================================== -->
 
-### 1. 🪟 Liquid Glass Navigation (`Navbar.jsx`)
-- **Fixed Blur Header**: Translucent frosted backdrop with `backdrop-filter: blur(28px) saturate(210%)` and subtle shadow depth.
-- **Scroll-Spy Observer**: Automatically highlights the active link (`Hero`, `Skills`, `Education`, `Projects`, `Contact`) as the user navigates.
-- **Brand Identity**: Sharp `SHAKSH` crimson typography on the far left, glowing `Hire Me` CTA on the far right.
-- **Responsive Drawer**: Mobile glass hamburger overlay for smaller screens.
-
-### 2. 🌀 Dynamic 3-Phase Scrollytelling Hero (`ModelViewer.jsx` / `Hero.jsx`)
-- **Sticky 380vh Viewport**: Pinned canvas with scroll-linked state interpolation.
-- **3-Phase Text Evolution**:
-  - `Phase 0`: **WEB DEVELOPER** (Resting state, Hero Portrait 1)
-  - `Phase 1`: **CONTENT CREATOR** (1st scroll, Hero Portrait 2)
-  - `Phase 2`: **ANDROID APP BUILDER** (2nd scroll, Hero Portrait 3)
-  - `Phase 3`: Returns smoothly to **WEB DEVELOPER**.
-- **Interactive Three.js Canvas**: Circular hologram mesh, 450+ orbiting crimson particles, dual rotating wireframe torus rings, and real-time mouse coordinate tracking HUD.
-- **Floating Glass Social Dock**: Instant one-click channels for YouTube, Telegram, Email, WhatsApp, Instagram, Facebook, GitHub, and Website.
-
-### 3. 🪐 Interactive Orbital Skills Showcase (`Skills.jsx`)
-- **Planetary Orbit System**: Pinned scrollytelling viewport (480vh track) where 10 specialized skill nodes revolve smoothly around Shaksh's circular central avatar podium.
-- **Real-Time Knowledge HUD**:
-  - React.js (95%)
-  - JavaScript ES2026+ (94%)
-  - TypeScript (88%)
-  - Three.js & WebGL (90%)
-  - Node.js (88%)
-  - Python (85%)
-  - Kotlin & Android Compose (86%)
-  - HTML5 & CSS3 Glass (96%)
-  - Next.js SSR (89%)
-  - Git & DevOps (92%)
-- **Dynamic Percentage Meter**: Glowing crimson progress fill accompanied by architectural descriptions and category tags.
-
-### 4. 🎓 Academic Timeline & Credentials (`Education.jsx`)
-- **Interactive Milestone Stepper**: Vertical progress fill tracking academic and professional milestones (340vh sticky track):
-  - **01 // B.C.A (Bachelor of Computer Applications)** — Prof. Rajendra Prasad University Naini, Prayagraj *(2024 — 2027)* • **8.0 CGPA**
-  - **02 // Advanced Web & 3D Graphics Engineering** — Three.js Shaders, GLSL & WebGL Specializations *(2023 — Present)*
-  - **03 // Android Mobile Application Architecture** — Kotlin, Jetpack Compose, MVVM & Room DB *(2023 — 2024)*
-- **Milestone Cards**: Detailed achievements, course highlights, and tech chips.
-
-### 5. 💻 Interactive Production Projects Showcase (`Projects.jsx`)
-- **460vh Scrollytelling Showcase**: Sticky browser mockup viewer cycling through live applications with screenshot previews, category tags, direct live demo launchers, and full tech stacks:
-
-| Project | Category | Live URL | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **ABCM Web Platform** | Full Stack Web App | [abcm.netlify.app](https://abcm.netlify.app) | React, CSS3, JavaScript, Netlify |
-| **AI Image Creator** | AI & Generative Media | [aiimagecreator.netlify.app](https://aiimagecreator.netlify.app) | React, AI APIs, Tailwind, Prompt Eng |
-| **Campus One Portal** | Educational Platform | [campusone.fast-page.org](https://campusone.fast-page.org) | PHP, MySQL, JavaScript, Responsive UI |
-| **EduNova Manager** | Management Dashboard | [edunovamanger.gt.tc](https://edunovamanger.gt.tc) | PHP, JavaScript, Bootstrap, MySQL |
-| **GIC Prayagraj Portal** | Institutional Website | [gicprayagraj.netlify.app](https://gicprayagraj.netlify.app) | HTML5, CSS3, JavaScript, Netlify |
-| **Nimbus Express** | Logistics & Tracking | [nimbusexpress.free.je](https://nimbusexpress.free.je) | Web Tech, API Integration, JS, CSS3 |
-| **Prempath Wellness** | Lifestyle & Wellness | [prempath.loveslife.biz](https://prempath.loveslife.biz) | CMS, JavaScript, Responsive UI, SEO |
-| **QuickNotes Utility** | Productivity Utility | [quicknotes.page.gd](https://quicknotes.page.gd) | JavaScript, LocalStorage, CSS Grid |
-| **Shaksh Portfolio V1** | Portfolio Showcase | [shaksh.netlify.app](https://shaksh.netlify.app) | React, Motion, CSS Modules, Netlify |
-| **Shaksh Industries Billing** | Enterprise Billing | [shakshindustriesbilling.infinityfree.me](https://shakshindustriesbilling.infinityfree.me) | PHP, MySQL, Invoice Engine |
-
-### 6. 📡 Direct Transmission & Contact Station (`Contact.jsx`)
-- **Quick-Copy Triggers**: One-click clipboard copy for direct Phone (`+91 9936475054`) and Email (`shaksh.coder@gmail.com`).
-- **Interactive Transmission Form**: Validated inputs with status alerts and real-time response feedback.
-- **Social Grid**: Quick access pills across all primary platforms.
-- **Global Footer**: Copyright notice with smooth "Back to Top" scrolling button.
-
----
-
-## 🛠️ Tech Stack & Dependencies
-
-```
-shaksh-portfolio/
-├── Framework        : React 19 (^19.2.8)
-├── Bundler & Tooling: Vite 8 (^8.3.0)
-├── 3D & Graphics    : Three.js (^0.186.1)
-├── Styling          : Custom Liquid Glassmorphism CSS & Dracula Variables
-├── Typography       : Outfit, Plus Jakarta Sans, Inter, Space Grotesk
-└── Deployment       : Netlify Production Pipeline
-```
-
----
-
-## 🚀 Getting Started Locally
-
-### 1. Prerequisites
-Ensure you have **Node.js (v18+)** installed on your system.
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/shakshindustries/shaksh-portfolio.git
-cd shaksh-portfolio
-```
-
-### 3. Install Dependencies
-```bash
-npm install
-```
-
-### 4. Start Development Server
-```bash
-npm run dev
-```
-Open your browser at `http://localhost:5173` to explore the live application.
-
-### 5. Build for Production
-```bash
-npm run build
-```
-The optimized production bundle will be generated in the `dist/` directory.
-
-### 6. Preview Production Build
-```bash
-npm run preview
-```
-
----
-
-## 📂 Project Structure
-
-```
-shaksh-portfolio/
-├── public/                     # Static assets & screenshots
-│   ├── projects/               # Showcase project preview images
-│   ├── hero-photo-1.png        # Transparent portrait (Phase 0/3 - Web Developer)
-│   ├── hero-photo-2.png        # Transparent portrait (Phase 1 - Content Creator)
-│   ├── hero-photo-3.png        # Transparent portrait (Phase 2 - Android App Builder)
-│   ├── shaksh.png              # Hologram 3D avatar texture
-│   └── favicon.*               # Custom brand icons
-├── src/
-│   ├── assets/
-│   │   └── projects/
-│   │       └── projects.json   # Portfolio projects database
-│   ├── components/
-│   │   ├── Navbar.jsx          # Liquid glass fixed navigation & scroll-spy
-│   │   ├── ModelViewer.jsx     # 3-Phase scrollytelling hero & avatar stage
-│   │   ├── Hero.jsx            # Three.js 3D WebGL particle scene & hologram HUD
-│   │   ├── Skills.jsx          # Orbital planetary skills showcase (10 skills)
-│   │   ├── Education.jsx       # Academic timeline & qualification cards
-│   │   ├── Projects.jsx        # Production projects browser mockup stage
-│   │   └── Contact.jsx         # Direct channels, socials & transmission form
-│   ├── data/
-│   │   └── personalInfo.json   # Shaksh profile, contact info & social links
-│   ├── App.jsx                 # Main layout coordinator
-│   ├── index.css               # Dracula void & liquid glass design system tokens
-│   └── main.jsx                # React 19 application entry point
-├── index.html                  # HTML5 boilerplate & Google Fonts
-├── netlify.toml                # Netlify deployment configuration
-├── package.json                # Project dependencies & scripts
-└── vite.config.js              # Vite bundler configuration
-```
-
----
-
-## 📬 Contact & Connect
-
-<p align="left">
-  <b>Shaksh</b> — Prayagraj, Uttar Pradesh, India<br/>
-  📧 <b>Email:</b> <a href="mailto:shaksh.coder@gmail.com">shaksh.coder@gmail.com</a><br/>
-  📱 <b>Mobile:</b> <a href="tel:+919936475054">+91 9936475054</a><br/>
-  💬 <b>WhatsApp:</b> <a href="https://wa.me/919936475054">+91 9936475054</a><br/>
-  ✈️ <b>Telegram:</b> <a href="https://t.me/programmershaksh">@programmershaksh</a><br/>
-  ▶️ <b>YouTube:</b> <a href="https://youtube.com/@shakshindustry?feature=shared">@shakshindustry</a><br/>
-  📸 <b>Instagram:</b> <a href="https://www.instagram.com/shaksh.coder">@shaksh.coder</a><br/>
-  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/shaksh">in/shaksh</a><br/>
-  🌐 <b>Website:</b> <a href="https://shakshindustries.netlify.app">shakshindustries.netlify.app</a>
-</p>
-
----
+## 📊 GitHub Analytics & Developer Activity
 
 <div align="center">
-  <sub>Crafted with ❤️ by Shaksh • Built with React 19, Three.js & Liquid Glass Engineering</sub>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shakshindustries&show_icons=true&theme=dracula&bg_color=050507&title_color=ff2a4b&icon_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b&hide_border=false" alt="Shaksh GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshindustries&layout=compact&theme=dracula&bg_color=050507&title_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakshindustries&theme=dracula&background=050507&ring=ff2a4b&fire=ff2a4b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a4b&border=ff2a4b" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- SECTION: LOCAL SETUP -->
+<!-- ===================================================================== -->
+
+## 💻 Local Development Setup
+
+To run this React 19 + Three.js portfolio locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/shakshindustries/shaksh-portfolio.git
+cd shaksh-portfolio
+
+# 2. Install dependencies
+npm install
+
+# 3. Launch Vite development server
+npm run dev
+
+# 4. Create production build
+npm run build
+```
+
+---
+
+<!-- ===================================================================== -->
+<!-- SECTION: FOOTER & CONNECT -->
+<!-- ===================================================================== -->
+
+<div align="center">
+
+### 🤝 Let's Build Something Extraordinary Together
+
+<p>
+  <b>Phone:</b> <a href="tel:+919936475054">+91 9936475054</a> &nbsp;|&nbsp;
+  <b>Email:</b> <a href="mailto:shaksh.coder@gmail.com">shaksh.coder@gmail.com</a> &nbsp;|&nbsp;
+  <b>WhatsApp:</b> <a href="https://wa.me/919936475054">+91 9936475054</a>
+</p>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#ff2a4b,40:#b80d2a,80:#1f0710,100:#050507&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+<sub>© 2026 Shaksh • Crafted with React 19, Three.js & Liquid Glass Design System</sub>
+
 </div>
