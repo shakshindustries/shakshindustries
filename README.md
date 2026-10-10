@@ -1,301 +1,160 @@
 <div align="center">
 
-<!-- ========================================================================= -->
-<!-- 1. CYBER HEADER BANNER WITH WAVING CRIMSON GRADIENT                       -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#050507,20:#18040b,50:#881337,80:#b80d2a,100:#ff2a4b&height=280&section=header&text=⚡%20SHAKSH%20⚡&fontSize=80&fontAlign=50&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20TECHNOLOGIST%20%E2%80%A2%203D%20WEBGL&descSize=18&descAlign=50&descAlignY=62&fontColor=ffffff&stroke=ff2a4b&strokeWidth=2.5" width="100%" alt="Shaksh Header Banner" />
-</a>
+# ⚡ SHAKSH
+### FULL STACK DEVELOPER • CREATIVE TECHNOLOGIST • 3D WEBGL
 
-<!-- ========================================================================= -->
-<!-- 2. DYNAMIC NEON TYPING SVG                                                -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&duration=2400&pause=1100&color=FF2A4B&center=true&vCenter=true&multiline=false&width=780&height=50&lines=⚡+CRAFTING+LIQUID-GLASS+WEB+INTERFACES;🔮+SPECIALIZED+IN+THREE.JS+3D+%26+WEBGL+SHADERS;📱+NATIVE+ANDROID+ARCHITECT+WITH+JETPACK+COMPOSE;🚀+FULL+STACK+SCALE+%7C+SUB-SECOND+PERFORMANCE" alt="Dynamic Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 3. PRIMARY ACTION MATRIX (SHIELDS FOR-THE-BADGE)                          -->
-<!-- ========================================================================= -->
 <p align="center">
   <a href="https://shakshindustries.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-shakshindustries.netlify.app-ff2a4b?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-shakshindustries.netlify.app-ff2a4b?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
   </a>
-  &nbsp;
   <a href="mailto:shaksh.coder@gmail.com">
-    <img src="https://img.shields.io/badge/📬_TRANSMISSION-shaksh.coder%40gmail.com-14141e?style=for-the-badge&logo=gmail&logoColor=ff2a4b" alt="Email Shaksh" />
+    <img src="https://img.shields.io/badge/EMAIL-shaksh.coder%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://wa.me/919936475054" target="_blank">
-    <img src="https://img.shields.io/badge/💬_WHATSAPP-%2B91_9936475054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Shaksh" />
+    <img src="https://img.shields.io/badge/WHATSAPP-%2B91_9936475054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
-<!-- ========================================================================= -->
-<!-- 4. AMBIENT HUD STATUS & CHANNELS MATRIX                                   -->
-<!-- ========================================================================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Available" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-PRAYAGRAJ%2C_INDIA-ff4362?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Prayagraj" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ACADEMIC-B.C.A_★_8.0_CGPA-7f52ff?style=for-the-badge&logo=academia&logoColor=white" alt="8.0 CGPA" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-10b981?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/LOCATION-PRAYAGRAJ%2C_INDIA-ff2a4b?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/ACADEMIC-B.C.A_★_8.0_CGPA-7f52ff?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/RESPONSE-WITHIN_24_HOURS-blue?style=flat-square" alt="Response" />
 </p>
 
-<!-- SOCIAL MATRIX BADGES -->
 <p align="center">
   <a href="https://youtube.com/@shakshindustry?feature=shared" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%40shakshindustry-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  &nbsp;
   <a href="https://t.me/programmershaksh" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40programmershaksh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/shaksh.coder" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40shaksh.coder-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/shaksh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-in%2Fshaksh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://github.com/shakshindustries" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-shakshindustries-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<br/>
+</div>
 
-<!-- ========================================================================= -->
-<!-- 5. SECTION BANNER: TECH ARSENAL MATRIX                                    -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:#050507,40:#22050e,100:#ff2a4b&height=55&section=header&text=⚡%20CORE%20TECH%20ARSENAL%20%26%20FRAMEWORKS%20⚡&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=ffffff&stroke=ff2a4b&strokeWidth=1" width="100%" alt="Core Stack" />
-</a>
+---
 
-<br/><br/>
+## ⚡ Overview & Specialization
 
-<!-- FRONTEND MATRIX -->
+> *"Building next-generation web applications, interactive 3D experiences, and native mobile solutions with liquid-glass aesthetics and sub-second performance."*
+
+- 🚀 **Frontend & 3D:** React 19, Three.js WebGL, Vite, Fluid Shaders, Liquid-Glass UI
+- 📱 **Mobile Architecture:** Native Android, Kotlin, Jetpack Compose, Clean MVVM, Room DB
+- ⚙️ **Backend & APIs:** Node.js, Express, Python, REST APIs, Microservices, MySQL
+- 📍 **Location:** Prayagraj, Uttar Pradesh, India
+- 🎓 **Education:** B.C.A (Bachelor of Computer Applications) • **8.0 CGPA** • Prof. Rajendra Prasad University
+
+---
+
+## 🛠️ Core Tech Arsenal
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" />
+  <img src="https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  &nbsp;
   <img src="https://img.shields.io/badge/JavaScript_ES2026+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<!-- MOBILE & BACKEND MATRIX -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Android" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git_%26_CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git CI/CD" />
+  <img src="https://img.shields.io/badge/Git_%26_CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<br/>
+---
 
-<!-- ========================================================================= -->
-<!-- 6. SECTION BANNER: ORBITAL KNOWLEDGE METERS                               -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:#050507,40:#22050e,100:#ff2a4b&height=55&section=header&text=🪐%20ORBITAL%20KNOWLEDGE%20HUD%20MASTERY%20🪐&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=ffffff&stroke=ff2a4b&strokeWidth=1" width="100%" alt="Knowledge HUD" />
-</a>
+## 🪐 Skills & Knowledge Matrix
 
-<br/><br/>
+| Skill | Level | Mastery | Category |
+| :--- | :---: | :--- | :--- |
+| **HTML5 & CSS3 Glass** | `96%` | ████████████████████ `96%` | Liquid Glass UI & Fluid Motion |
+| **React.js 19** | `95%` | ███████████████████░ `95%` | Component Architecture & WebGL Canvases |
+| **JavaScript ES2026+** | `94%` | ███████████████████░ `94%` | Async Event Loops & High Performance |
+| **Git & DevOps** | `92%` | ██████████████████░░ `92%` | Automated CI/CD & Branching Architecture |
+| **Three.js & 3D WebGL** | `90%` | ██████████████████░░ `90%` | Shaders, GLTF Loaders & 3D HUD Portals |
+| **Next.js Fullstack** | `89%` | █████████████████░░░ `89%` | SSR, Static Generation & Route Handlers |
+| **Node.js APIs** | `88%` | █████████████████░░░ `88%` | RESTful Microservices & Auth Pipelines |
+| **TypeScript Systems** | `88%` | █████████████████░░░ `88%` | Strict Type Contracts & Scalability |
+| **Kotlin & Android** | `86%` | █████████████████░░░ `86%` | Jetpack Compose, Coroutines & Clean MVVM |
+| **Python Automation** | `85%` | █████████████████░░░ `85%` | Algorithmic Scripting & API Integration |
 
-<!-- PROGRESS BARS WITH CUSTOM GLOWING CRIMSON COLOR -->
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT.JS_19-95%25_SPECIALIST-ff2a4b?style=flat-square&logo=react&logoColor=white" alt="React 95" />
-  <br/>
-  <img src="https://geps.dev/progress/95?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="React Progress" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5_%26_LIQUID_GLASS_CSS3-96%25_EXPERT-ff2a4b?style=flat-square&logo=css3&logoColor=white" alt="CSS 96" />
-  <br/>
-  <img src="https://geps.dev/progress/96?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="CSS Progress" />
-</p>
+## 🚀 Featured Production Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT_ES2026+-94%25_EXPERT-ff2a4b?style=flat-square&logo=javascript&logoColor=white" alt="JS 94" />
-  <br/>
-  <img src="https://geps.dev/progress/94?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="JS Progress" />
-</p>
+| Project | Category | Live URL | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| 🎨 **ABCM Web Platform** | Full Stack Web App | [abcm.netlify.app](https://abcm.netlify.app) | `React` `CSS3` `JavaScript` `Netlify` |
+| 🤖 **AI Image Creator** | AI & Generative Media | [aiimagecreator.netlify.app](https://aiimagecreator.netlify.app) | `React` `AI APIs` `Tailwind` `Prompt Eng` |
+| 🎓 **Campus One Portal** | Educational Platform | [campusone.fast-page.org](https://campusone.fast-page.org) | `PHP` `MySQL` `JavaScript` `Responsive UI` |
+| 📊 **EduNova Manager** | Management Dashboard | [edunovamanger.gt.tc](https://edunovamanger.gt.tc) | `PHP` `JavaScript` `Bootstrap` `MySQL` |
+| 🏛️ **GIC Prayagraj Portal** | Institutional Website | [gicprayagraj.netlify.app](https://gicprayagraj.netlify.app) | `HTML5` `CSS3` `JavaScript` `Netlify` |
+| 🚚 **Nimbus Express** | Logistics & Tracking | [nimbusexpress.free.je](https://nimbusexpress.free.je) | `Web Tech` `APIs` `JavaScript` `CSS3` |
+| 🌿 **Prempath Wellness** | Lifestyle & Wellness | [prempath.loveslife.biz](https://prempath.loveslife.biz) | `CMS` `JavaScript` `Responsive UI` `SEO` |
+| 📝 **QuickNotes Utility** | Productivity Utility | [quicknotes.page.gd](https://quicknotes.page.gd) | `JavaScript` `LocalStorage` `CSS Grid` |
+| 💳 **Shaksh Industries Billing** | Enterprise Billing | [billing.infinityfree.me](https://shakshindustriesbilling.infinityfree.me) | `PHP` `MySQL` `Invoice Engine` |
+| ⚡ **Shaksh Portfolio V1** | Portfolio Showcase | [shaksh.netlify.app](https://shaksh.netlify.app) | `React` `Motion` `CSS Modules` `Netlify` |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT_DEVOPS_%26_CI%2FCD-92%25_ADVANCED-ff2a4b?style=flat-square&logo=git&logoColor=white" alt="Git 92" />
-  <br/>
-  <img src="https://geps.dev/progress/92?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Git Progress" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/THREE.JS_%26_3D_WEBGL-90%25_SPECIALIST-ff2a4b?style=flat-square&logo=three.js&logoColor=white" alt="Threejs 90" />
-  <br/>
-  <img src="https://geps.dev/progress/90?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Threejs Progress" />
-</p>
+## 🎓 Academic Foundations
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS_FULLSTACK-89%25_ADVANCED-ff2a4b?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs 89" />
-  <br/>
-  <img src="https://geps.dev/progress/89?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Nextjs Progress" />
-</p>
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 01 // 2024 — 2027  B.C.A (Bachelor of Computer Applications)                           │
+│       Prof. Rajendra Prasad University Naini, Prayagraj  •  ★ 8.0 CGPA                 │
+│       Data Structures, DBMS, Software Engineering, Object-Oriented Design              │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 02 // 2023 — Present  Advanced Web & 3D Graphics Engineering                           │
+│       Professional Specialization & WebGL Deep Dives                                   │
+│       Three.js Shaders, GLSL, Responsive Liquid-Glass UI, Sub-Second Core Web Vitals   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 03 // 2023 — 2024  Android Mobile Application Architecture                             │
+│       Google Android Developer Specialization                                          │
+│       Kotlin Coroutines, Jetpack Compose, Material Design 3, Room Database Caching     │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS_APIS-88%25_ADVANCED-ff2a4b?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node 88" />
-  <br/>
-  <img src="https://geps.dev/progress/88?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Node Progress" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TYPESCRIPT_SYSTEMS-88%25_PROFICIENT-ff2a4b?style=flat-square&logo=typescript&logoColor=white" alt="TS 88" />
-  <br/>
-  <img src="https://geps.dev/progress/88?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="TS Progress" />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KOTLIN_ANDROID_COMPOSE-86%25_ADVANCED-ff2a4b?style=flat-square&logo=android&logoColor=white" alt="Kotlin 86" />
-  <br/>
-  <img src="https://geps.dev/progress/86?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Kotlin Progress" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON_AUTOMATION-85%25_PROFICIENT-ff2a4b?style=flat-square&logo=python&logoColor=white" alt="Python 85" />
-  <br/>
-  <img src="https://geps.dev/progress/85?dangerColor=ff2a4b&warningColor=ff4362&successColor=ff2a4b" width="70%" height="9" alt="Python Progress" />
-</p>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 7. SECTION BANNER: PRODUCTION SHOWCASE VAULT                              -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:#050507,40:#22050e,100:#ff2a4b&height=55&section=header&text=🚀%20PRODUCTION%20SHOWCASE%20VAULT%20🚀&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=ffffff&stroke=ff2a4b&strokeWidth=1" width="100%" alt="Production Showcase" />
-</a>
-
-<br/><br/>
-
-<!-- PROJECT 1: ABCM -->
-<p align="center">
-  <img src="https://img.shields.io/badge/01%20%2F%2F%20FULL%20STACK%20WEB%20APP-ABCM%20WEB%20PLATFORM-ff2a4b?style=for-the-badge" alt="ABCM Platform" />
-  <br/><br/>
-  <a href="https://abcm.netlify.app" target="_blank">
-    <img src="public/projects/abcm.netlify.app.png" width="85%" style="border-radius: 14px; border: 2px solid #ff2a4b;" alt="ABCM Demo" />
-  </a>
-  <br/>
-  <a href="https://abcm.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LAUNCH_LIVE_SITE-abcm.netlify.app-ff2a4b?style=for-the-badge&logo=netlify&logoColor=white" alt="ABCM Live" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STACK-React%20•%20CSS3%20•%20JavaScript%20•%20Netlify-181824?style=for-the-badge" alt="ABCM Stack" />
-</p>
-
-<br/>
-
-<!-- PROJECT 2: AI IMAGE CREATOR -->
-<p align="center">
-  <img src="https://img.shields.io/badge/02%20%2F%2F%20AI%20%26%20GENERATIVE%20MEDIA-AI%20IMAGE%20CREATOR-ff2a4b?style=for-the-badge" alt="AI Image Creator" />
-  <br/><br/>
-  <a href="https://aiimagecreator.netlify.app" target="_blank">
-    <img src="public/projects/aiimagecreator.netlify.app.png" width="85%" style="border-radius: 14px; border: 2px solid #ff2a4b;" alt="AI Creator Demo" />
-  </a>
-  <br/>
-  <a href="https://aiimagecreator.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LAUNCH_LIVE_SITE-aiimagecreator.netlify.app-ff2a4b?style=for-the-badge&logo=netlify&logoColor=white" alt="AI Creator Live" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STACK-React%20•%20AI%20APIs%20•%20Tailwind%20•%20Prompts-181824?style=for-the-badge" alt="AI Stack" />
-</p>
-
-<br/>
-
-<!-- PROJECT 3: CAMPUS ONE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/03%20%2F%2F%20EDUCATIONAL%20PLATFORM-CAMPUS%20ONE%20PORTAL-ff2a4b?style=for-the-badge" alt="Campus One" />
-  <br/><br/>
-  <a href="https://campusone.fast-page.org" target="_blank">
-    <img src="public/projects/campusone.fast-page.org.png" width="85%" style="border-radius: 14px; border: 2px solid #ff2a4b;" alt="Campus One Demo" />
-  </a>
-  <br/>
-  <a href="https://campusone.fast-page.org" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LAUNCH_LIVE_SITE-campusone.fast--page.org-ff2a4b?style=for-the-badge" alt="Campus One Live" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STACK-PHP%20•%20MySQL%20•%20JavaScript%20•%20UI-181824?style=for-the-badge" alt="Campus One Stack" />
-</p>
-
-<br/>
-
-<!-- PROJECT 4: SHAKSH BILLING -->
-<p align="center">
-  <img src="https://img.shields.io/badge/04%20%2F%2F%20ENTERPRISE%20BILLING-SHAKSH%20INDUSTRIES%20BILLING-ff2a4b?style=for-the-badge" alt="Shaksh Billing" />
-  <br/><br/>
-  <a href="https://shakshindustriesbilling.infinityfree.me" target="_blank">
-    <img src="public/projects/shakshindustriesbilling.infinityfree.me.png" width="85%" style="border-radius: 14px; border: 2px solid #ff2a4b;" alt="Billing Demo" />
-  </a>
-  <br/>
-  <a href="https://shakshindustriesbilling.infinityfree.me" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LAUNCH_LIVE_SITE-billing.infinityfree.me-ff2a4b?style=for-the-badge" alt="Billing Live" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STACK-PHP%20•%20MySQL%20•%20Invoice%20Engine-181824?style=for-the-badge" alt="Billing Stack" />
-</p>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 8. SECTION BANNER: GITHUB LIVE METRICS                                    -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:#050507,40:#22050e,100:#ff2a4b&height=55&section=header&text=📊%20GITHUB%20ANALYTICS%20%26%20STREAK%20METRICS%20📊&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=ffffff&stroke=ff2a4b&strokeWidth=1" width="100%" alt="GitHub Metrics" />
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakshindustries&show_icons=true&theme=dracula&bg_color=050507&title_color=ff2a4b&icon_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b&hide_border=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakshindustries&show_icons=true&theme=dracula&bg_color=050507&title_color=ff2a4b&icon_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshindustries&layout=compact&theme=dracula&bg_color=050507&title_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshindustries&layout=compact&theme=dracula&bg_color=050507&title_color=ff2a4b&text_color=94a3b8&border_color=ff2a4b" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakshindustries&theme=dracula&background=050507&ring=ff2a4b&fire=ff2a4b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a4b&border=ff2a4b" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakshindustries&theme=dracula&background=050507&ring=ff2a4b&fire=ff2a4b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a4b&border=ff2a4b" alt="GitHub Streak" />
 </p>
 
-<br/>
+---
 
-<!-- ========================================================================= -->
-<!-- 9. SECTION BANNER: TRANSMISSION & CONNECT                                 -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:#050507,40:#22050e,100:#ff2a4b&height=55&section=header&text=📡%20INITIATE%20DIRECT%20TRANSMISSION%20📡&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=ffffff&stroke=ff2a4b&strokeWidth=1" width="100%" alt="Transmission" />
-</a>
-
-<br/><br/>
+## 📬 Initiate Transmission // Contact
 
 <p align="center">
   <a href="tel:+919936475054">
-    <img src="https://img.shields.io/badge/MOBILE-%2B91_9936475054-ff2a4b?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/MOBILE-%2B91_9936475054-ff2a4b?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile" />
   </a>
   &nbsp;
   <a href="mailto:shaksh.coder@gmail.com">
-    <img src="https://img.shields.io/badge/MAIL-shaksh.coder%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+    <img src="https://img.shields.io/badge/EMAIL-shaksh.coder%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/919936475054" target="_blank">
@@ -304,22 +163,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RESPONSE_TIME-WITHIN_24_HOURS-10b981?style=for-the-badge&logo=timer&logoColor=white" alt="Response Time" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WORKING_HOURS-MON_—_SAT%2C_9%3A00_AM_—_8%3A00_PM_IST-ff4362?style=for-the-badge" alt="Working Hours" />
+  <sub>© 2026 Shaksh • Full-Stack Developer & Creative Technologist • Built with React 19 & Three.js</sub>
 </p>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 10. FOOTER WAVE                                                           -->
-<!-- ========================================================================= -->
-<a href="https://shakshindustries.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#ff2a4b,35:#b80d2a,70:#18040b,100:#050507&height=140&section=footer" width="100%" alt="Footer Wave" />
-</a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/©_2026_SHAKSH-CRAFTED_WITH_REACT_19_%26_THREE.JS-181824?style=flat-square&logo=react&logoColor=ff2a4b" alt="Copyright" />
-</p>
-
-</div>
